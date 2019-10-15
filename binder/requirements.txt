@@ -1,4 +1,5 @@
 ipywidgets
 pandas
 jupyter_contrib_nbextensions
+qgrid
 voila
