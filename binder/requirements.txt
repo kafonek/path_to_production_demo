@@ -1,0 +1,4 @@
+ipywidgets
+pandas
+jupyter_contrib_nbextensions
+voila
